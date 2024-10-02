@@ -1,0 +1,3 @@
+[submodule "cicd-end-to-end"]
+	path = cicd-end-to-end
+	url = https://github.com/iam-veeramalla/cicd-end-to-end.git
